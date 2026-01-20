@@ -1,0 +1,8 @@
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
+
+# Build outputs
+**/target/
+**/node_modules/
