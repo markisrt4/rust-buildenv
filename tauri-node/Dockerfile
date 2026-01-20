@@ -1,4 +1,4 @@
-FROM ghcr.io/REPLACE_ME/rust-build:tauri
+FROM ghcr.io/markisrt4/rust-build:tauri
 # ^ We'll update this after you publish, but for local builds you can change it to: FROM rust-build:tauri
 
 ENV DEBIAN_FRONTEND=noninteractive

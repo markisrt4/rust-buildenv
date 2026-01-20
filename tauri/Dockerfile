@@ -1,4 +1,4 @@
-FROM ghcr.io/REPLACE_ME/rust-build:bookworm
+FROM ghcr.io/markisrt4/rust-build:bookworm
 # ^ We'll update this after you publish, but for local builds you can change it to: FROM rust-build:bookworm
 
 ENV DEBIAN_FRONTEND=noninteractive
